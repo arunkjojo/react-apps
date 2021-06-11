@@ -1,0 +1,10 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "app.netlify.ajcreation_weather_city.twa",
+      "sha256_cert_fingerprints":
+      ["39:81:8D:23:D9:01:13:7E:84:F1:10:FD:8E:0D:5D:21:35:93:02:60:AC:33:0C:0A:24:D3:0A:F8:92:0C:09:BD"]
+    }
+  }]
+}]
